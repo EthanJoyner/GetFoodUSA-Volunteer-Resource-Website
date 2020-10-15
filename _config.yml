@@ -5,5 +5,5 @@ description: >-
 baseurl: ""
 url: ""
 
-include:['_pages']
+include: ['_pages']
 markdown: kramdown

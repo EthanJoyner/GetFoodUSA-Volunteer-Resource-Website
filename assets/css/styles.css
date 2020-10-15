@@ -32,6 +32,7 @@
   --breakpoint-md:768px;
   --breakpoint-lg:992px;
   --breakpoint-xl:1200px;
+  
   }
 
 *, ::after, ::before {
@@ -42,12 +43,14 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
+  background-color: #2b1bba;
  }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
 body {
+  background-color: #2b1bba;
   margin: 0;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
   font-size: 1rem;
@@ -8268,4 +8271,29 @@ a.text-dark:focus, a.text-dark:hover {
   position: absolute;
   bottom: 0;
   width: 100%;
+}
+
+.grad-1:hover{
+  background: linear-gradient(30deg, #ff352c, #ff352c, #3a4048); 
+  color:#191919;
+  animation-name: G1ani;
+  animation-duration: .5s;
+  animation-fill-mode: forward;
+}
+
+@keyframes G1ani{
+  0%{background: #ff352c;}
+  100%{background: linear-gradient(30deg, #ff352c, #ff352c, #3a4048);}
+}
+
+.h2r{
+  background: #ff352c; 
+  color:#191919;
+  animation-name: H2Rani;
+  animation-duration: .5s;
+  animation-fill-mode: forward;
+}
+@keyframes H2Rani{
+  0%{}
+  100%{background: #ff352c;}
 }
