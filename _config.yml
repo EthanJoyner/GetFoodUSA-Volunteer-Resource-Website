@@ -1,8 +1,9 @@
-title: Barnabei Adventure Rentals
-email: jmbarnabei@comcast.net
+title: GetFoodUSA VRS
+email: getfoodusasocialmedia@gmail.com
 description: >-
-  Camping Trailer Rentals
+  A place to help get new aspiring volunteers up and running! 
 baseurl: ""
 url: ""
 
+include:['_pages']
 markdown: kramdown
