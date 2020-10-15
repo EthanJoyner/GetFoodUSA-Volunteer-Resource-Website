@@ -2,8 +2,8 @@ title: GetFoodUSA VRS
 email: getfoodusasocialmedia@gmail.com
 description: >-
   A place to help get new aspiring volunteers up and running! 
-baseurl: ""
+baseurl: "/GetFoodUSA-Volunteer-Resource-Website"
 url: ""
 # /GetFoodUSA-Volunteer-Resource-Website
-include: ['_pages']
+
 markdown: kramdown

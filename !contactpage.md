@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /GetFoodUSA-Volunteer-Resource-Website/contact-and-links/
+permalink: /contact-and-links/
 ---
 
 {% include contact.html %}
