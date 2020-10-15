@@ -8229,7 +8229,7 @@ a.text-dark:focus, a.text-dark:hover {
 /*# sourceMappingURL=bootstrap.min.css.map */
 .masthead {
   height: 100vh;
-  background-color: #2b1bba;/* background-image: url("/bar/assets/img/trailer-1.jpg"); */
+  background-image: url("/assets/img/hero-40.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -8248,9 +8248,18 @@ a.text-dark:focus, a.text-dark:hover {
     
 .my-blue{
   background-color: #2b1bba;
+  color: #f2f2f2;
 }
     
 .my-red{
   background-color: #ff352c;
 }
-    
+
+/* .nbh:hover{
+  background-color: #2b1bba;
+  
+} */
+
+.force-center{
+  text-align: center;
+}
