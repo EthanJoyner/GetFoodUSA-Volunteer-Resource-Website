@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="211px" height="149px" viewBox="0 0 211 149" enable-background="new 0 0 211 149" xml:space="preserve">
+<title>logo.getfood_v03.white</title>
+<desc>Created with Sketch.</desc>
+<g id="Map-r4">
+	<g id="Results" transform="translate(-80.000000, -61.000000)">
+		<g id="header">
+			<g id="logo.getfood_v03.white" transform="translate(80.000000, 60.000000)">
+				<g id="logo" transform="translate(0.000000, 0.832000)">
+					<path id="Fill-15_1_" fill="#FFFFFF" d="M97.157,148.971"/>
+					<path id="Fill-17_1_" fill="#FFFFFF" d="M135.241,148.971"/>
+					<path id="Fill-19" fill="#FFFFFF" d="M162.205,148.305h-9.137 M193.286,148.305h-11.204"/>
+					<g id="Group-23">
+						<g id="Clip-22">
+						</g>
+						<defs>
+							<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0.173" width="65.001" height="100.364">
+								<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+							</filter>
+						</defs>
+						<mask maskUnits="userSpaceOnUse" x="0" y="0.173" width="65.001" height="100.364" id="mask-2">
+							<g filter="url(#Adobe_OpacityMaskFilter)">
+								<polygon id="path-1" fill="#FFFFFF" points="0,0.173 64.999,0.173 64.999,100.537 0,100.537 								"/>
+							</g>
+						</mask>
+						<path id="Fill-21" mask="url(#mask-2)" fill="#FF353C" d="M34.667,54.241c-13.765,1.364-25.238-10.112-23.875-23.88
+							c1.009-10.188,9.248-18.428,19.433-19.437C43.99,9.562,55.463,21.037,54.1,34.804C53.092,44.992,44.852,53.232,34.667,54.241
+							 M32.5,0.173C14.416,0.202-0.083,14.798,0,32.885c0.023,4.804,1.084,9.361,2.973,13.458c0.064,0.138,0.124,0.274,0.178,0.415
+							c0.354,0.923,3.419,7.792,29.35,53.779C58.434,54.542,61.495,47.681,61.85,46.758c0.054-0.141,0.114-0.277,0.178-0.415
+							c1.888-4.097,2.949-8.654,2.972-13.458C65.082,14.798,50.583,0.202,32.5,0.173"/>
+					</g>
+					<g id="Group-26" transform="translate(11.301370, 103.786207)">
+						<g id="Clip-25">
+						</g>
+						<defs>
+							<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0.672" y="0.97" width="39.49" height="44.243">
+								<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+							</filter>
+						</defs>
+						<mask maskUnits="userSpaceOnUse" x="0.672" y="0.97" width="39.49" height="44.243" id="mask-4">
+							<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+								<polygon id="path-3" fill="#FFFFFF" points="0.673,0.97 40.163,0.97 40.163,45.214 0.673,45.214 								"/>
+							</g>
+						</mask>
+						<path id="Fill-24" mask="url(#mask-4)" fill="#FF353C" d="M35.181,9.851c-1.913-1.326-4.216-1.996-6.525-2.164
+							c-2.264-0.166-4.725,0.201-6.655,1.459c0.578-3.422,2.475-5.334,5.917-5.729V0.97c-4.892,0.625-7.708,3.506-8.362,8.363
+							c-2.016-1.473-4.701-1.9-7.16-1.725c-2.352,0.17-4.699,0.842-6.648,2.168c-4.731,3.225-5.878,9.229-4.576,14.513
+							c0.843,3.422,2.497,6.597,4.016,9.75c0.723,1.501,1.452,2.999,2.272,4.45c1.217,2.15,2.177,4.789,4.561,5.98
+							c0.92,0.486,1.932,0.741,2.973,0.743c0.55,0.001,1.098-0.062,1.64-0.157c0.506-0.089,1.026-0.18,1.513-0.332
+							c0.792-0.246,1.625-0.365,2.455-0.353v0.002c0.814-0.015,1.63,0.104,2.407,0.353c0.48,0.151,0.989,0.241,1.487,0.33
+							c0.531,0.096,1.069,0.158,1.61,0.157c1.021-0.002,2.015-0.257,2.917-0.741c2.34-1.188,3.282-3.82,4.476-5.967
+							c0.806-1.449,1.521-2.945,2.231-4.443c1.491-3.146,3.114-6.314,3.942-9.729C40.949,19.06,39.825,13.067,35.181,9.851"/>
+					</g>
+					<path id="Fill-27" fill="#FF353C" d="M29.99,110.949c0,0,0.55-3.104-1.042-5.242c-1.591-2.141-4.721-2.504-4.721-2.504
+						s-0.55,3.104,1.042,5.242C26.861,110.585,29.99,110.949,29.99,110.949"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
