@@ -8297,3 +8297,14 @@ a.text-dark:focus, a.text-dark:hover {
   0%{}
   100%{background: #ff352c;}
 }
+
+.r2g:hover{
+  background: #191919; 
+  animation-name: R2gani;
+  animation-duration: .5s;
+  animation-fill-mode: forward;
+}
+@keyframes R2gani{
+  0%{background: #ff352c; }
+  100%{background: #191919;}
+}
