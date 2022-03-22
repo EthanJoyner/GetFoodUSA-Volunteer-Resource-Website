@@ -1,6 +1,6 @@
 ---
 layout: default3
-permalink: /training/
+permalink: /GetFoodUSA-Volunteer-Resource-Website/training/
 ---
 
 {% include training.html %}
